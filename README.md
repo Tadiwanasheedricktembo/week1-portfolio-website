@@ -1,14 +1,12 @@
-<<<<<<< HEAD
 # Portfolio Website
 
 ## Project Overview
 
-This portfolio website showcases my personal profile, core skills, featured projects, and a contact form. The main objectives were to create a visually appealing, responsive website using HTML and external CSS, while demonstrating modern layout and hover effects.
+This portfolio website showcases my personal profile, core skills, featured projects, and a contact form. The main objectives were to create a visually appealing, responsive website using HTML5 and CSS.
 
 ## GitHub Repository
 
-- Repository URL: https://github.com/yourusername/your-repo
-- Documentation URL: https://docs.google.com/document/d/...
+- Repository URL: https://github.com/Tadiwanasheedricktembo/week1-portfolio-website
 
 ## Setup and Installation
 
@@ -34,7 +32,7 @@ The project uses an external `style.css` file with the following CSS concepts:
 - Pseudo-classes: `:hover`, `:focus-visible`
 - Media queries for responsive behavior on smaller screens
 
-Responsive design is implemented with `@media` queries to adjust the layout for tablets and mobile devices. The header and hero sections stack vertically on narrow screens, and buttons expand to full width for easier tapping.
+Responsive design is implemented with `@media` queries to adjust the layout for tablets and mobile devices. The header and hero sections stack vertically on narrow screens, and buttons expand accordingly.
 
 ## How Technical Requirements Were Met
 
@@ -44,15 +42,6 @@ Responsive design is implemented with `@media` queries to adjust the layout for 
 - Implemented responsive page structure using media queries and flexible grid layout.
 - Included semantic HTML sections: About, Skills, Projects, Contact.
 - Used form fields with accessible labels and focus styles.
-
-## Screenshots
-
-- Screenshot 1: Add a screenshot of the homepage here.
-- Screenshot 2: Add a screenshot of the contact section here.
-
-## Notes
-
-This submission includes enhanced styling, a responsive layout, and documentation covering design decisions and CSS concepts. Replace the placeholder GitHub and documentation URLs with your actual repository and docs links.
 
 ## Folder Structure
 
@@ -64,14 +53,6 @@ Week 1/
 └── images/
     └── profile.png
 ```
-=======
-# Personal Portfolio Website
-
-## Project Overview
-
-This project is a beginner portfolio website created using HTML5. The website contains personal information, skills, and a contact form. The goal of the project is to practice basic HTML structure, semantic tags, navigation, forms, and images.
-
----
 
 ## Features
 
@@ -81,45 +62,4 @@ This project is a beginner portfolio website created using HTML5. The website co
 - Navigation menu
 - Semantic HTML structure
 - Image support
-
----
-
-## Technologies Used
-
-- HTML5
-
----
-
-## Setup Instructions
-
-1. Download the project files.
-2. Open the project folder.
-3. Open `index.html` in your browser.
-
----
-
-## HTML Concepts Learned
-
-During this project, the following HTML concepts were learned:
-
-- HTML document structure
-- Semantic HTML tags
-- Headings and paragraphs
-- Navigation links
-- Images and alt text
-- Forms and input fields
-- Lists
-- Footer section
-
----
-
-## Folder Structure
-
-```text
-portfolio-website/
-│
-├── index.html
-├── README.md
-└── images/
-    └── profile.png
->>>>>>> e604a6a88460327a18bc6af36321959dd5f63720
+- Responsive design
