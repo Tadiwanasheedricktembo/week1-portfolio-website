@@ -21,6 +21,10 @@ This portfolio website showcases my personal profile, core skills, featured proj
 - `README.md` — Project documentation and technical explanation.
 - `images/profile.png` — Profile image displayed on the homepage.
 
+## Screenshots
+
+![Portfolio Website Screenshot](https://github.com/Tadiwanasheedricktembo/week1-portfolio-website/raw/main/images/screenshot.png)
+
 ## Styling and Responsiveness
 
 The project uses an external `style.css` file with the following CSS concepts:
